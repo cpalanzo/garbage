@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1C7C-9547
+
+ Directory of C:\Users\Lonestar4\Desktop\gittest
+
+12/18/2018  04:40 PM    <DIR>          .
+12/18/2018  04:40 PM    <DIR>          ..
+12/18/2018  04:40 PM                 0 mydir.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  39,381,360,640 bytes free
